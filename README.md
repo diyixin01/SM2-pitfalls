@@ -33,6 +33,9 @@
 敌手可以使用受害者A利用相同k签的sig1和sig2直接计算其私钥d
 
 ![image](https://user-images.githubusercontent.com/75195549/181473252-b3f771d2-6e5e-4cf6-804c-dcc08492330f.png)
+
+
+
 结果如下：
 
 ![image](https://user-images.githubusercontent.com/75195549/181472449-0f8b0145-4b2d-46d2-ade1-e810bed03602.png)
